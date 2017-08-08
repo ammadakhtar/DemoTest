@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.5.0)
+  - BRYXBanner (0.7.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - BRYXBanner
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  BRYXBanner: bd26a91cb8a5826a8bc7687891043d287dd3ee53
+
+PODFILE CHECKSUM: 5113c8c33aa8a7b87c9623655a1354a07b9d9129
+
+COCOAPODS: 1.2.0
